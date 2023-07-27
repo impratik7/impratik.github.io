@@ -1,1 +1,1 @@
-Click here to view <code>[Portfolio](https://impratik7.github.io/portfolio/)</code>
+Click here to view <code>[Portfolio](https://pratikmali.is-a.dev/)</code>
